@@ -280,7 +280,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #home {
-    background: #535bd4 url('../images/home-bg.jpg') no-repeat;
+    background: #535bd4 url('../images/background.jpeg') no-repeat;
     background-size: cover;
     background-position: center center;
     color: #ffffff;
