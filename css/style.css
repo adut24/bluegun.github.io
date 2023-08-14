@@ -905,6 +905,7 @@ a:hover {
 
 .card-blog .card-description {
   color: #4e4e4e;
+  text-align: justify;
 }
 
 .card-blog .post-author {
@@ -1262,4 +1263,14 @@ footer .credits a {
   .back-to-top {
     bottom: 15px;
   }
+}
+
+.lead
+{
+  text-align: justify;
+}
+
+.push
+{
+  margin-left: 15px;
 }
